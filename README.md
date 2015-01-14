@@ -2,14 +2,13 @@
 
 ## What is the purpose badge?
 
-The HomeBuyer Discounts Merchant Badge is for our merchants to proudly display their membership in our network. Displaying this badge on your website links your traffic to https://www.homebuyersdiscount.com which provides your customers access to the wonderful savings HomeBuyer Discounts provides.
+The HomeBuyer Discounts Merchant Badge is for our merchants to proudly display their membership in our network. Displaying this badge on your website links your traffic to https://www.homebuyerdiscounts.com which provides your customers access to the wonderful savings HomeBuyer Discounts provides.
 
 ## How do I add this to my website?
 
-Adding this to your site is very easy. Simply copy and paste the following code to your website just above the closing *</body>* tag.
+Adding this to your site is very easy. Simply copy and paste the following code to your website just above the closing *body* tag.
 
-```
-
+```html
 <style>
 	@import url(http://fonts.googleapis.com/css?family=Roboto:900);
 	#hbd-badge{ 
@@ -62,7 +61,6 @@ Adding this to your site is very easy. Simply copy and paste the following code 
 		<h2>Certified Merchant</h2>
 	</div>
 </a>
-
 ```
 
 Also supplied in this repository is an HTML file that you or your developer can use as a php include, asp inc, or any other framework you or your developer may be using.
