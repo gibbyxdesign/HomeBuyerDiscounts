@@ -65,6 +65,6 @@ Adding this to your site is very easy. Simply copy and paste the following code 
 
 Also supplied in this repository is an HTML file that you or your developer can use as a php include, asp inc, or any other framework you or your developer may be using.
 
-** Tech Support
+## Tech Support
 
-If you have issues implementing this badge into your website, please contact HomeBuyer Discounts at https://www.homebuyersdiscount.com or email us at [info@homebuyerdiscounts.com](mailto:info@homebuyerdiscounts.com) .
+If you have issues implementing this badge into your website, please contact HomeBuyer Discounts at https://www.homebuyerdiscounts.com or email us at [info@homebuyerdiscounts.com](mailto:info@homebuyerdiscounts.com) .
