@@ -4,6 +4,12 @@
 
 The HomeBuyer Discounts Merchant Badge is for our merchants to proudly display their membership in our network. Displaying this badge on your website links your traffic to https://www.homebuyerdiscounts.com which provides your customers access to the wonderful savings HomeBuyer Discounts provides.
 
+## What will this badge look like on my site?
+
+The HomeBuyer Discounts Merchant Badge will appear on your site as it does in the following screenshot.
+
+![HomeBuyer Discounts Screenshot](github.com/gibbyxdesign/HomeBuyerDiscounts/example-screenshot.jpg)
+
 ## How do I add this to my website?
 
 Adding this to your site is very easy. Simply copy and paste the following code to your website just above the closing *body* tag.
