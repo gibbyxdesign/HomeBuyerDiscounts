@@ -8,7 +8,7 @@ The HomeBuyer Discounts Merchant Badge is for our merchants to proudly display t
 
 The HomeBuyer Discounts Merchant Badge will appear on your site as it does in the following screenshot.
 
-![HomeBuyer Discounts Screenshot](github.com/gibbyxdesign/HomeBuyerDiscounts/example-screenshot.jpg)
+![HomeBuyer Discounts Screenshot](https://raw.githubusercontent.com/gibbyxdesign/HomeBuyerDiscounts/master/example-screenshot.jpg)
 
 ## How do I add this to my website?
 
