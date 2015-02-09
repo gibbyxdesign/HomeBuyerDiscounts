@@ -17,16 +17,16 @@ Adding this to your site is very easy. Simply copy and paste the following code 
 ```html
 <style>
 	@import url(http://fonts.googleapis.com/css?family=Roboto:900);
-	#hbd-badge{ 
-		display: block;
-		width: 143px; 
-		height: 29px; 
+	#hbd-badge{
+	    display: block;
+	    width: 253px; 
+	    height: 99px; 
 		border: 2px solid #12AE99; 
 		-webkit-border-radius: 15px 15px 15px 15px;
 		border-radius: 15px 15px 15px 15px;
 		padding: 8px;
 		position: fixed;
-		bottom: 30px;
+		top: 30px;
 		right: -90px;
 		text-decoration: none;
 		text-align: center;
@@ -36,17 +36,18 @@ Adding this to your site is very easy. Simply copy and paste the following code 
 		-o-transition: all .5s ease;
 		transition: all .5s ease;
 		z-index: 1000;
+		background: white;
 	}
 	#hbd-badge:hover{
-		right: 5px;
+	    right: 5px;
 	}
 	#hbd-logo{
-		display: inline-block; 
-		border-right: 2px;
-		padding-right: 10px;
-		border-right: 2px solid #12AE99;
+	    display: inline-block;
+	    border-right: 2px;
+	    padding-right: 10px;
+	    border-right: 2px solid #12AE99;
 	}
-	#hbd-logo img{ width: 38px; }
+	#hbd-logo img{ width: 128px; }
 	#hbd-text{
 		display: inline-block; 
 		font-family: 'Roboto', sans-serif;
